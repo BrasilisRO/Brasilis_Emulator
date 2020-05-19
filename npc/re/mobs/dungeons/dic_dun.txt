@@ -13,33 +13,32 @@
 //= 1.1 Added Nightmare Scaraba Hole [Chilly]
 //= 1.2 Updated Nightmare spawns and names. [Euphy]
 //============================================================
-
 //==================================================
 // dic_dun01 - Underground Passage Kamidal Tunnel
 //==================================================
-dic_dun01,0,0	monster	One-Horned Scaraba	2083,50,5000
-dic_dun01,0,0	monster	Two-Horned Scaraba	2084,45,5000
-dic_dun01,0,0	monster	Scaraba Egg	2088,15,5000
-dic_dun01,0,0	monster	Scaraba Egg	2089,15,5000
+dic_dun01,0,0	monster	Scaraba Chifre	2083,50,5000
+dic_dun01,0,0	monster	Scaraba Chifres Duplos	2084,45,5000
+dic_dun01,0,0	monster	Ovo de Scaraba	2088,15,5000
+dic_dun01,0,0	monster	Ovo de Scaraba	2089,15,5000
 
 //==================================================
 // dic_dun02 - Underground Nest Scaraba Hole
 //==================================================
-dic_dun02,0,0	monster	Antler Scaraba	2085,50,5000
-dic_dun02,0,0	monster	Rake Scaraba	2086,45,5000
-dic_dun02,0,0	monster	Antler Scaraba Egg	2090,15,5000
-dic_dun02,0,0	monster	Rake Scaraba Egg	2091,15,5000
-dic_dun02,0,0,0,0	boss_monster	Scaraba Queen	2087,1,7200000,0,1
+dic_dun02,0,0	monster	Scaraba Galhado	2085,50,5000
+dic_dun02,0,0	monster	Scaraba Ancinho	2086,45,5000
+dic_dun02,0,0	monster	Ovo de Scaraba Galhado	2090,15,5000
+dic_dun02,0,0	monster	Ovo de Scaraba Ancinho	2091,15,5000
+dic_dun02,0,0,0,0	boss_monster	Rainha Scaraba	2087,1,7200000,0,1
 
 //==================================================
 // dic_dun03 - Nightmare Scaraba Hole
 //==================================================
-dic_dun03,0,0	monster	Gold One-Horn Scaraba Egg	2166,10,5000
-dic_dun03,0,0	monster	Gold Two-Horn Scaraba Egg	2167,10,5000
-dic_dun03,0,0	monster	Gold Antler Scaraba Egg	2168,10,5000
-dic_dun03,0,0	monster	Gold Rake Scaraba Egg	2169,10,5000
-dic_dun03,0,0	monster	Gold One-Horn Scaraba	2161,30,5000
-dic_dun03,0,0	monster	Gold Two-Horn Scaraba	2162,30,5000
-dic_dun03,0,0	monster	Gold Antler Scaraba	2163,40,5000
-dic_dun03,0,0	monster	Gold Rake Scaraba	2164,40,5000
-dic_dun03,0,0,0,0	boss_monster	Gold Queen Scaraba	2165,1,7200000,0,1
+dic_dun03,0,0	monster	Ovo de Scaraba Dourado	2166,10,5000
+dic_dun03,0,0	monster	Ovo de Scaraba Dourado	2167,10,5000
+dic_dun03,0,0	monster	Ovo de Scaraba Galhado Dourado	2168,10,5000
+dic_dun03,0,0	monster	Ovo de Scaraba Ancinho Dourado	2169,10,5000
+dic_dun03,0,0	monster	Scaraba Chifre Dourado	2161,30,5000
+dic_dun03,0,0	monster	Scaraba Chifres Duplos Dourado	2162,30,5000
+dic_dun03,0,0	monster	Scaraba Galhado Dourado	2163,40,5000
+dic_dun03,0,0	monster	Scaraba Ancinho Dourado	2164,40,5000
+dic_dun03,0,0,0,0	boss_monster	Rainha Scaraba Dourado	2165,1,7200000,0,1
