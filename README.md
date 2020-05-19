@@ -14,7 +14,7 @@
 ### Comunidade
 
   - [Facebook](https://www.facebook.com//)
-  - [Doações](https://www.paypal.com/br/)
+  - [Doações](https://pag.ae/7W24R9ir4)
   - [Discord](https://discord.gg/kzSFaTm)
   
 ### Você pode encontrar :
